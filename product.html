@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title data-translate="prod_page_title">Test produit | ATech</title>
+    <meta name="description" content="Test et avis complet sur ce produit.">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="product.css">
+</head>
+<body>
+<header class="navbar">
+    <div class="logo">
+        <a href="index.html"><img src="logo-atech.png" alt="ATech Logo"></a>
+    </div>
+    <div class="lang-dropdown" id="lang-switcher">
+        <button class="lang-btn">
+            <img src="fr-flag.jpg" alt="FR" class="active-flag">
+        </button>
+        <div class="lang-menu">
+            <img src="fr-flag.jpg" alt="FR" data-lang="fr" class="flag">
+            <img src="en-flag.png" alt="EN" data-lang="en" class="flag">
+        </div>
+    </div>
+    <button class="burger" id="burger">&#9776;</button>
+    <nav id="nav-menu">
+        <a href="#product" data-translate="nav_product">Produit</a>
+        <a href="#product-specs" data-translate="nav_specs">Fiche technique</a>
+        <a href="#ratings" data-translate="nav_ratings">Notes</a>
+        <a href="#verdict" data-translate="nav_verdict">Verdict</a>
+    </nav>
+</header>
+
+<main id="product-container">
+    <!-- Contenu injecté par product.js -->
+</main>
+
+<!-- FOOTER -->
+<footer class="footer">
+    <div class="footer-container">
+        <div class="footer-left">
+            <img src="logo-atech.png" alt="ATech Logo" class="footer-logo">
+        </div>
+        <div class="footer-center">
+            <p class="footer-text">© 2025 ATech</p>
+        </div>
+        <div class="footer-right footer-links">
+            <a href="https://www.youtube.com/@ATechWithAlex" target="_blank" aria-label="YouTube" class="icon-link">
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M23.498 6.186a2.996 2.996 0 00-2.112-2.12C19.302 3.5 12 3.5 12 3.5s-7.302 0-9.386.566a2.996 2.996 0 00-2.112 2.12C0 8.27 0 12 0 12s0 3.73.502 5.814a2.996 2.996 0 002.112 2.12C4.698 20.5 12 20.5 12 20.5s7.302 0 9.386-.566a2.996 2.996 0 002.112-2.12C24 15.73 24 12 24 12s0-3.73-.502-5.814zM9.75 15.02V8.98L15.5 12l-5.75 3.02z"/>
+                </svg>
+            </a>
+            <a href="https://www.instagram.com/atechwithalex/" target="_blank" aria-label="Instagram" class="icon-link">
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M7 2C4.24 2 2 4.24 2 7v10c0 2.76 2.24 5 5 5h10c2.76 0 5-2.24 5-5V7c0-2.76-2.24-5-5-5H7zm0 2h10c1.66 0 3 1.34 3 3v10c0 1.66-1.34 3-3 3H7c-1.66 0-3-1.34-3-3V7c0-1.66 1.34-3 3-3zm10 1a1 1 0 100 2 1 1 0 000-2zM12 7a5 5 0 100 10 5 5 0 000-10zm0 2a3 3 0 110 6 3 3 0 010-6z"/>
+                </svg>
+            </a>
+            <a href="https://www.tiktok.com/@atechwithalex" target="_blank" aria-label="TikTok" class="icon-link">
+                <svg width="24" height="24" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" fill="currentColor">
+                    <path d="M41,16.16a12.82,12.82,0,0,1-7.58-2.44V28.29a10.15,10.15,0,1,1-9-10.05v6.83A3.55,3.55,0,1,0,28.55,28V3h5.1a7.73,7.73,0,0,0,.11,1.39h0A7.71,7.71,0,0,0,41,11.73V16.16Z"/>
+                </svg>
+            </a>
+        </div>
+    </div>
+</footer>
+
+<script src="data.js"></script>
+<script src="lang.js"></script>
+<script src="product.js"></script>
+<script src="script.js"></script>
+</html>

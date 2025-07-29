@@ -1,0 +1,961 @@
+[
+  {
+    "id": "smartphone-xyz",
+    "category": "smartphones",
+    "name": {
+      "fr": "Smartphone XYZ",
+      "en": "Smartphone XYZ"
+    },
+    "image": "smartphone.jpg",
+    "rating": 4.5,
+    "price": "899€",
+    "summary": {
+      "fr": "Un smartphone haut de gamme offrant un excellent équilibre entre performance, photo et autonomie.",
+      "en": "A high-end smartphone offering an excellent balance between performance, photography, and battery life."
+    },
+    "specs": {
+      "fr": {
+        "Écran": "6,7 pouces OLED, 120 Hz",
+        "Processeur": "Snapdragon 8 Gen 2",
+        "RAM": "8 Go",
+        "Stockage": "256 Go",
+        "Batterie": "5000 mAh, charge 65 W",
+        "OS": "Android 14",
+        "Connectivité": "5G, Wi-Fi 6E, Bluetooth 5.3, NFC",
+        "Dimensions": "162 x 75 x 8.3 mm",
+        "Poids": "195 g",
+        "Matériaux": "Aluminium + Verre Gorilla Glass Victus"
+      },
+      "en": {
+        "Screen": "6.7-inch OLED, 120 Hz",
+        "Processor": "Snapdragon 8 Gen 2",
+        "RAM": "8 GB",
+        "Storage": "256 GB",
+        "Battery": "5000 mAh, 65 W charging",
+        "OS": "Android 14",
+        "Connectivity": "5G, Wi-Fi 6E, Bluetooth 5.3, NFC",
+        "Dimensions": "162 x 75 x 8.3 mm",
+        "Weight": "195 g",
+        "Materials": "Aluminum + Gorilla Glass Victus"
+      }
+    },
+    "criteriaRatings": {
+      "fr": {
+        "Performance": 3,
+        "Écran": 4.5,
+        "Audio": 4,
+        "Autonomie": 2.5,
+        "Design": 5,
+        "Interface": 3
+      },
+      "en": {
+        "Performance": 3,
+        "Display": 4.5,
+        "Audio": 4,
+        "Battery Life": 2.5,
+        "Design": 5,
+        "Interface": 3
+      }
+    },
+    "tests": {
+      "fr": [
+        "Benchmarks : 1 200 000 points AnTuTu",
+        "Autonomie réelle : 2 jours en usage modéré",
+        "Charge rapide : 0-100% en 35 minutes",
+        "Écran : 120 Hz, luminosité 1500 nits",
+        "Audio : stéréo avec Dolby Atmos",
+        "Photo : excellent rendu de jour, mode nuit efficace",
+        "Gaming : aucun lag, chauffe modérée après 30 min",
+        "Prise en main : légère et confortable malgré sa taille"
+      ],
+      "en": [
+        "Benchmarks: 1,200,000 AnTuTu points",
+        "Real battery life: 2 days with moderate use",
+        "Fast charging: 0-100% in 35 minutes",
+        "Display: 120 Hz, 1500 nits brightness",
+        "Audio: stereo with Dolby Atmos",
+        "Camera: excellent daytime shots, effective night mode",
+        "Gaming: no lag, moderate heat after 30 min",
+        "Handling: light and comfortable despite its size"
+      ]
+    },
+    "pros": {
+      "fr": [
+        "Écran lumineux et fluide",
+        "Excellente autonomie",
+        "Performance top pour le gaming",
+        "Qualité photo impressionnante"
+      ],
+      "en": [
+        "Bright and smooth display",
+        "Excellent battery life",
+        "Top performance for gaming",
+        "Impressive photo quality"
+      ]
+    },
+    "cons": {
+      "fr": [
+        "Prix un peu élevé",
+        "Pas de port microSD"
+      ],
+      "en": [
+        "Slightly expensive",
+        "No microSD slot"
+      ]
+    },
+    "durability": {
+      "fr": {
+        "Résistance aux rayures": "Verre Gorilla Glass Victus",
+        "Certification IP": "IP68 (résistant à l'eau et à la poussière)",
+        "Impact environnemental": "Matériaux partiellement recyclés, emballage écologique"
+      },
+      "en": {
+        "Scratch Resistance": "Gorilla Glass Victus",
+        "IP Certification": "IP68 (water and dust resistant)",
+        "Environmental Impact": "Partially recycled materials, eco-friendly packaging"
+      }
+    },
+    "accessories": {
+      "fr": {
+        "Accessoires inclus": "Chargeur 65 W, câble USB-C, coque transparente",
+        "Compatibilité": "Charge sans fil 30 W, compatible docks et écouteurs Bluetooth"
+      },
+      "en": {
+        "Included Accessories": "65W charger, USB-C cable, clear case",
+        "Compatibility": "30W wireless charging, compatible with docks and Bluetooth earbuds"
+      }
+    },
+    "valueForMoney": {
+      "fr": "Le Smartphone XYZ est cher (899€) mais justifié par ses performances et sa qualité photo, offrant un bon compromis pour un appareil premium.",
+      "en": "The Smartphone XYZ is pricey (€899) but justified by its performance and photo quality, offering a good trade-off for a premium device."
+    },
+    "warranty": {
+      "fr": {
+        "Garantie": "2 ans constructeur",
+        "Réparabilité": "Pièces disponibles pendant 5 ans",
+        "SAV": "Centres de réparation dans toute l'Europe"
+      },
+      "en": {
+        "Warranty": "2-year manufacturer warranty",
+        "Repairability": "Parts available for 5 years",
+        "Support": "Repair centers available across Europe"
+      }
+    },
+    "targetUsers": {
+      "fr": [
+        "Pour les gamers cherchant performance et fluidité",
+        "Pour les photographes amateurs grâce à sa qualité photo",
+        "Pour les utilisateurs pro (bureautique et multimédia)",
+        "Pour ceux qui veulent un smartphone durable et premium"
+      ],
+      "en": [
+        "For gamers seeking performance and smoothness",
+        "For amateur photographers thanks to its camera quality",
+        "For professionals (office work and multimedia)",
+        "For those who want a durable, premium smartphone"
+      ]
+    },
+    "competitors": [
+      "Samsung Galaxy S25",
+      "iPhone 15 Pro",
+      "OnePlus 12"
+    ],
+    "finalRating": "4.5/5",
+    "affiliateLink": "https://www.amazon.fr/dp/example-smartphone",
+    "gallery": [
+      "smartphone.jpg",
+      "view.jpeg",
+      "view.jpeg"
+    ],
+    "experience": {
+      "fr": "<h3>Introduction & Contexte</h3><p>Le Smartphone XYZ m’a intrigué par sa promesse d’offrir un équilibre parfait entre performance, photo et autonomie. Mes attentes étaient élevées, notamment sur le gaming et la photo en basse lumière.</p><h3>Jour 1 à 3 – Premières impressions</h3><p>Le design premium en aluminium et verre Gorilla Glass donne une sensation haut de gamme. L’écran OLED 120 Hz m’a immédiatement impressionné par sa fluidité et ses couleurs vives.</p><h3>Au quotidien – Utilisation réelle</h3><p>En usage réel, la batterie tient 2 jours avec une utilisation mixte (réseaux sociaux, navigation, quelques sessions de jeux). Les photos de nuit sont bluffantes et le mode portrait produit des résultats quasi professionnels.</p><h3>Points forts ressentis au fil du temps</h3><p>Le mode nuit et la charge rapide (0-100 % en 35 min) sont de véritables atouts pour un usage quotidien.</p><h3>Déceptions ou frustrations</h3><p>Le téléphone chauffe légèrement après 40 minutes de gaming intensif et le prix reste élevé par rapport à certains concurrents.</p><h3>Bilan personnel</h3><p>Je le recommande aux utilisateurs exigeants qui veulent un smartphone polyvalent et haut de gamme. Je l’achèterais sans hésiter malgré son tarif.</p>",
+      "en": "<h3>Introduction & Context</h3><p>The Smartphone XYZ intrigued me with its promise of perfect balance between performance, photography, and battery life. My expectations were high, especially for gaming and low-light photography.</p><h3>Day 1 to 3 – First Impressions</h3><p>The premium aluminum and Gorilla Glass design feels high-end. The 120 Hz OLED display immediately impressed me with its smoothness and vivid colors.</p><h3>Daily Use</h3><p>In real use, the battery lasts 2 days with mixed use (social media, browsing, some gaming). Night photos are stunning, and the portrait mode delivers near-professional results.</p><h3>Strengths Over Time</h3><p>Night mode and fast charging (0-100% in 35 min) are real daily assets.</p><h3>Disappointments</h3><p>The phone slightly heats after 40 minutes of intense gaming and remains pricey compared to competitors.</p><h3>Personal Verdict</h3><p>I recommend it for demanding users wanting a versatile and premium smartphone. I would buy it again despite the price.</p>"
+    },
+    "verdict": {
+      "fr": "Le Smartphone XYZ est un des meilleurs choix en 2025 pour ceux qui recherchent une expérience premium sans compromis.",
+      "en": "The Smartphone XYZ is one of the best choices in 2025 for those seeking a premium experience without compromise."
+    }
+  },
+
+
+
+
+
+
+  {
+    "id": "headphones-123",
+    "category": "audio-video",
+    "name": {
+      "fr": "Casque Audio 123",
+      "en": "Audio 123 Headphones"
+    },
+    "image": "headphones.jpg",
+    "rating": 4,
+    "price": "299€",
+    "summary": {
+      "fr": "Un casque audio Bluetooth confortable avec réduction active de bruit.",
+      "en": "A comfortable Bluetooth headset with active noise reduction."
+    },
+    "specs": {
+      "fr": {
+        "Type": "Over-Ear",
+        "Autonomie": "40 heures",
+        "Bluetooth": "5.2",
+        "Poids": "250 g",
+        "Charge rapide": "10 min = 5 h d'écoute",
+        "Audio": "Hi-Res, réduction de bruit active"
+      },
+      "en": {
+        "Type": "Over-Ear",
+        "Battery Life": "40 hours",
+        "Bluetooth": "5.2",
+        "Weight": "250 g",
+        "Fast Charge": "10 min = 5 hours of listening time",
+        "Audio": "Hi-Res, active noise cancellation"
+      }
+    },
+    "criteriaRatings": {
+      "fr": {
+        "Performance": 1,
+        "Écran": 4.5,
+        "Audio": 2,
+        "Autonomie": 3.5,
+        "Design": 5
+      },
+      "en": {
+        "Performance": 1,
+        "Display": 4.5,
+        "Audio": 2,
+        "Battery Life": 3.5,
+        "Design": 5
+      }
+    },
+    "tests": {
+      "fr": [
+        "Réduction de bruit : très efficace en transport",
+        "Autonomie mesurée : 38 heures",
+        "Son : basses profondes, médiums équilibrés",
+        "Microphone : qualité correcte en appel"
+      ],
+      "en": [
+        "Noise reduction: very effective in transit",
+        "Measured battery life: 38 hours",
+        "Sound: deep bass, balanced mids",
+        "Microphone: decent call quality"
+      ]
+    },
+    "pros": {
+      "fr": [
+        "Qualité sonore immersive",
+        "Réduction de bruit efficace",
+        "Confort longue durée"
+      ],
+      "en": [
+        "Immersive sound quality",
+        "Effective noise reduction",
+        "Long-lasting comfort"
+      ]
+    },
+    "cons": {
+      "fr": [
+        "Pas de multipoint",
+        "Prix légèrement élevé"
+      ],
+      "en": [
+        "No multipoint",
+        "Slightly high price"
+      ]
+    },
+    "durability": {
+      "fr": {
+        "Résistance aux rayures": "Bonne, plastique résistant",
+        "Certification IP": "IPX4 (résistant aux éclaboussures)",
+        "Impact environnemental": "Matériaux recyclables, pas de substances nocives"
+      },
+      "en": {
+        "Scratch resistance": "Good, durable plastic",
+        "IP certification": "IPX4 (splash-resistant)",
+        "Environmental impact": "Recyclable materials, no harmful substances"
+      }
+    },
+    "accessories": {
+      "fr": {
+        "Étui de transport": "Inclus",
+        "Câble audio": "Jack 3,5 mm fourni",
+        "Câble de charge": "USB-C inclus"
+      },
+      "en": {
+        "Carrying case": "Included",
+        "Audio cable": "3.5 mm jack provided",
+        "Charging cable": "USB-C included"
+      }
+    },
+    "valueForMoney": {
+      "fr": "Bon rapport qualité/prix compte tenu de la qualité audio et de la réduction de bruit.",
+      "en": "Good value for money considering the audio quality and noise cancellation."
+    },
+    "warranty": {
+      "fr": {
+        "Garantie": "2 ans constructeur",
+        "Réparabilité": "Pièces disponibles pendant 5 ans"
+      },
+      "en": {
+        "Warranty": "2-year manufacturer warranty",
+        "Repairability": "Parts available for 5 years"
+      }
+    },
+    "targetUsers": {
+      "fr": [
+        "Audiophiles recherchant un son immersif",
+        "Travailleurs en open-space",
+        "Voyageurs fréquents"
+      ],
+      "en": [
+        "Audiophiles looking for immersive sound",
+        "Open-space workers",
+        "Frequent travelers"
+      ]
+    },
+    "competitors": [
+      "Sony WH-1000XM5",
+      "Bose QC45"
+    ],
+    "finalRating": "4/5",
+    "affiliateLink": "https://www.amazon.fr/dp/example-headphones",
+    "gallery": [
+      "headphones.jpg",
+      "view.jpeg"
+    ],
+    "experience":{
+      "fr": "<h3>Introduction & Contexte</h3><p>J’ai choisi de tester ce casque car je cherchais une alternative plus confortable pour les longues sessions de travail et de musique. Mes attentes concernaient surtout la réduction de bruit et la qualité sonore.</p><h3>Jour 1 à 3 – Premières impressions</h3><p>Le design est élégant et la légèreté se fait ressentir. Les basses sont profondes et les médiums clairs. La réduction de bruit est immédiatement perceptible.</p><h3>Au quotidien – Utilisation réelle</h3><p>Avec 5 heures d’écoute par jour, l’autonomie a tenu près de 38 heures comme promis. Très confortable, il ne serre pas trop la tête même après de longues sessions.</p><h3>Points forts ressentis au fil du temps</h3><p>Réduction de bruit bluffante dans les transports et son équilibré avec des basses bien maîtrisées.</p><h3>Déceptions ou frustrations</h3><p>Pas de connexion multipoint, ce qui complique la transition entre PC et smartphone.</p><h3>Bilan personnel</h3><p>Je le recommande pour les audiophiles qui veulent un casque premium sans compromis. Oui, je l’achèterais à ce prix.</p>",
+      "en": "<h3>Introduction & Background</h3><p>I chose to test these headphones because I was looking for a more comfortable alternative for long work and music sessions. My expectations were mainly related to noise reduction and sound quality.</p><h3>Day 1 to 3 – First Impressions</h3><p>The design is elegant and light. The bass is deep and the mids clear. The noise reduction is immediately noticeable.</p><h3>Daily Use – Actual Use</h3><p>With 5 hours of listening per day, the battery life lasted nearly 38 hours as promised. Very comfortable, it doesn't squeeze the head too much even after long sessions.</p><h3>Strong Points Felt Over Time</h3><p>Impressive noise reduction in transport and balanced sound with well-controlled bass.</p><h3>Disappointments or Frustrations</h3><p>No connection multipoint, which complicates the transition between PC and smartphone.</p><h3>Personal Review</h3><p>I recommend it for audiophiles who want a premium headset without compromise. Yes, I would buy it at this price.</p>"
+    },
+    "verdict": {
+      "fr": "Un excellent casque audio pour la musique et le travail, avec une très bonne réduction de bruit.",
+      "en": "Excellent headphones for music and work, with very good noise cancellation."
+    }
+  },
+
+
+
+
+
+  {
+    "id": "keyboard-pro",
+    "category": "informatique",
+    "name": {
+      "fr": "Clavier Mécanique Pro",
+      "en": "Mechanical Keyboard Pro"
+    },
+    "image": "keyboard.jpg",
+    "rating": 4.8,
+    "price": "159€",
+    "summary": {
+      "fr": "Clavier mécanique RGB haut de gamme, idéal pour gamers et développeurs.",
+      "en": "High-end RGB mechanical keyboard, perfect for gamers and developers."
+    },
+    "specs": {
+      "fr": {
+        "Switchs": "Cherry MX Red",
+        "Rétroéclairage": "RGB personnalisable",
+        "Connectivité": "USB-C",
+        "Poids": "900 g",
+        "Anti-Ghosting": "100% avec N-Key Rollover"
+      },
+      "en": {
+        "Switches": "Cherry MX Red",
+        "Backlight": "Customizable RGB",
+        "Connectivity": "USB-C",
+        "Weight": "900 g",
+        "Anti-Ghosting": "100% with N-Key Rollover"
+      }
+    },
+    "criteriaRatings": {
+      "fr": {
+        "Performance": 5,
+        "Écran": 4.5,
+        "Audio": 4,
+        "Autonomie": 4.5,
+        "Design": 5
+      },
+      "en": {
+        "Performance": 5,
+        "Display": 4.5,
+        "Audio": 4,
+        "Battery Life": 4.5,
+        "Design": 5
+      }
+    },
+    "tests": {
+      "fr": [
+        "Réactivité testée en FPS : top",
+        "Bruit modéré, agréable pour écrire",
+        "RGB : 12 modes prédéfinis + custom",
+        "Logiciel simple à utiliser"
+      ],
+      "en": [
+        "Responsiveness tested in FPS: excellent",
+        "Moderate noise, pleasant for typing",
+        "RGB: 12 preset modes + custom",
+        "Easy-to-use software"
+      ]
+    },
+    "pros": {
+      "fr": [
+        "Frappe réactive et agréable",
+        "Qualité de construction solide",
+        "Éclairage RGB premium"
+      ],
+      "en": [
+        "Responsive and pleasant typing",
+        "Solid build quality",
+        "Premium RGB lighting"
+      ]
+    },
+    "cons": {
+      "fr": [
+        "Pas de repose-poignet",
+        "Prix élevé"
+      ],
+      "en": [
+        "No wrist rest",
+        "High price"
+      ]
+    },
+    "durability": {
+      "fr": {
+        "Résistance aux rayures": "Excellent, châssis aluminium",
+        "Certification IP": "Non certifié",
+        "Impact environnemental": "Matériaux recyclables, switchs remplaçables"
+      },
+      "en": {
+        "Scratch resistance": "Excellent, aluminum frame",
+        "IP certification": "Not certified",
+        "Environmental impact": "Recyclable materials, replaceable switches"
+      }
+    },
+    "accessories": {
+      "fr": {
+        "Câble USB-C": "Inclus, tressé",
+        "Extracteur de keycaps": "Oui",
+        "Logiciel de configuration": "Inclus"
+      },
+      "en": {
+        "USB-C cable": "Included, braided",
+        "Keycap puller": "Yes",
+        "Configuration software": "Included"
+      }
+    },
+    "valueForMoney": {
+      "fr": "Très bon rapport qualité/prix compte tenu des switchs premium et du RGB.",
+      "en": "Very good value for money considering premium switches and RGB."
+    },
+    "warranty": {
+      "fr": {
+        "Garantie": "2 ans constructeur",
+        "Réparabilité": "Keycaps et switchs facilement remplaçables"
+      },
+      "en": {
+        "Warranty": "2-year manufacturer warranty",
+        "Repairability": "Keycaps and switches easily replaceable"
+      }
+    },
+    "targetUsers": {
+      "fr": [
+        "Développeurs exigeants",
+        "Joueurs FPS compétitifs",
+        "Amateurs de claviers premium"
+      ],
+      "en": [
+        "Demanding developers",
+        "Competitive FPS gamers",
+        "Premium keyboard enthusiasts"
+      ]
+    },
+    "competitors": [
+      "Logitech G Pro X",
+      "Corsair K95 RGB"
+    ],
+    "finalRating": "4.8/5",
+    "affiliateLink": "https://www.amazon.fr/dp/example-keyboard",
+    "gallery": [
+      "keyboard.jpg",
+      "view.jpeg"
+    ],
+    "experience": {
+      "fr": "<h3>Introduction & Contexte</h3><p>En tant que développeur, je cherchais un clavier mécanique de qualité pour coder et jouer. Mes attentes portaient sur le confort de frappe et le rétroéclairage.</p><h3>Jour 1 à 3 – Premières impressions</h3><p>Le clavier est lourd et robuste, avec des switchs Cherry MX Red offrant une frappe rapide et agréable. Le rétroéclairage RGB est spectaculaire.</p><h3>Au quotidien – Utilisation réelle</h3><p>En développement, la frappe est fluide et agréable. En jeu (FPS), il réagit parfaitement sans ghosting.</p><h3>Points forts ressentis au fil du temps</h3><p>Les finitions sont premium et la personnalisation RGB via le logiciel est simple et efficace.</p><h3>Déceptions ou frustrations</h3><p>L’absence de repose-poignet peut fatiguer après de longues sessions.</p><h3>Bilan personnel</h3><p>Parfait pour les passionnés de gaming et les développeurs exigeants. Je l’achèterais sans hésiter.</p>",
+      "en": "<h3>Introduction & Context</h3><p>As a developer, I was looking for a high-quality mechanical keyboard for coding and gaming. My expectations were focused on typing comfort and RGB lighting.</p><h3>Days 1 to 3 – First impressions</h3><p>The keyboard is heavy and sturdy, with Cherry MX Red switches offering fast and enjoyable typing. The RGB lighting is stunning.</p><h3>Daily use – Real experience</h3><p>For development, typing is smooth and pleasant. In gaming (FPS), it reacts perfectly with no ghosting.</p><h3>Strengths over time</h3><p>Premium finish and easy RGB customization via software.</p><h3>Disappointments or frustrations</h3><p>The lack of a wrist rest can be tiring after long sessions.</p><h3>Personal opinion</h3><p>Perfect for gaming enthusiasts and demanding developers. I would buy it without hesitation.</p>"
+    },
+    "verdict": {
+      "fr": "Le clavier parfait pour les passionnés de frappe et de gaming.",
+      "en": "The perfect keyboard for typing and gaming enthusiasts."
+    }
+  },
+
+
+
+
+
+
+
+
+
+  {
+    "id": "smartwatch-z",
+    "category": ["smartphones", "iot"],
+    "name": {
+      "fr": "Smartwatch Z",
+      "en": "Smartwatch Z"
+    },
+    "image": "smartwatch.jpg",
+    "rating": 4,
+    "price": "249€",
+    "summary": {
+      "fr": "Montre connectée élégante avec suivi sportif complet et autonomie correcte.",
+      "en": "Elegant smartwatch with complete fitness tracking and decent battery life."
+    },
+    "specs": {
+      "fr": {
+        "Écran": "1,5 pouce AMOLED",
+        "Batterie": "7 jours",
+        "Résistance": "IP68",
+        "Capteurs": "FC, SpO2, GPS",
+        "Compatibilité": "iOS/Android"
+      },
+      "en": {
+        "Display": "1.5-inch AMOLED",
+        "Battery": "7 days",
+        "Resistance": "IP68",
+        "Sensors": "HR, SpO2, GPS",
+        "Compatibility": "iOS/Android"
+      }
+    },
+    "criteriaRatings": {
+      "fr": {
+        "Performance": 5,
+        "Écran": 4.5,
+        "Audio": 4,
+        "Autonomie": 4.5,
+        "Design": 5
+      },
+      "en": {
+        "Performance": 5,
+        "Display": 4.5,
+        "Audio": 4,
+        "Battery Life": 4.5,
+        "Design": 5
+      }
+    },
+    "tests": {
+      "fr": [
+        "Précision GPS : excellente",
+        "Autonomie réelle : 6 jours",
+        "Écran AMOLED lumineux",
+        "Mesures FC & SpO2 fiables"
+      ],
+      "en": [
+        "GPS accuracy: excellent",
+        "Real battery life: 6 days",
+        "Bright AMOLED display",
+        "Accurate HR & SpO2 measurements"
+      ]
+    },
+    "pros": {
+      "fr": [
+        "Bel écran AMOLED",
+        "Suivi complet pour le sport"
+      ],
+      "en": [
+        "Beautiful AMOLED display",
+        "Comprehensive fitness tracking"
+      ]
+    },
+    "cons": {
+      "fr": [
+        "Peu d’applications tierces"
+      ],
+      "en": [
+        "Few third-party apps"
+      ]
+    },
+    "durability": {
+      "fr": {
+        "Résistance aux rayures": "Bonne, verre renforcé",
+        "Certification IP": "IP68 (eau et poussière)",
+        "Impact environnemental": "Corps en aluminium recyclable"
+      },
+      "en": {
+        "Scratch resistance": "Good, reinforced glass",
+        "IP certification": "IP68 (water and dust)",
+        "Environmental impact": "Recyclable aluminum body"
+      }
+    },
+    "accessories": {
+      "fr": {
+        "Bracelet supplémentaire": "Non inclus",
+        "Câble de charge": "Magnétique USB inclus",
+        "Adaptateurs": "Aucun"
+      },
+      "en": {
+        "Extra strap": "Not included",
+        "Charging cable": "Magnetic USB included",
+        "Adapters": "None"
+      }
+    },
+    "valueForMoney": {
+      "fr": "Très bon rapport qualité/prix pour une montre avec écran AMOLED et suivi complet.",
+      "en": "Very good value for money for a smartwatch with AMOLED display and full tracking."
+    },
+    "warranty": {
+      "fr": {
+        "Garantie": "2 ans constructeur",
+        "Réparabilité": "Pièces limitées, batterie remplaçable via SAV"
+      },
+      "en": {
+        "Warranty": "2-year manufacturer warranty",
+        "Repairability": "Limited parts, battery replaceable via service"
+      }
+    },
+    "targetUsers": {
+      "fr": [
+        "Sportifs réguliers",
+        "Utilisateurs connectés au quotidien",
+        "Amateurs de design élégant"
+      ],
+      "en": [
+        "Regular athletes",
+        "Everyday connected users",
+        "Lovers of elegant design"
+      ]
+    },
+    "competitors": [
+      "Apple Watch SE",
+      "Huawei Watch GT 4"
+    ],
+    "finalRating": "4/5",
+    "affiliateLink": "https://www.amazon.fr/dp/example-smartwatch",
+    "gallery": [
+      "smartwatch.jpg",
+      "view.jpeg"
+    ],
+    "experience": {
+      "fr": "<h3>Introduction & Contexte</h3><p>La Smartwatch Z m’intéressait pour son design élégant et son suivi sportif complet. J’attendais aussi une bonne autonomie.</p><h3>Jour 1 à 3 – Premières impressions</h3><p>Légère et agréable au poignet, elle se configure en quelques minutes. L’écran AMOLED est lumineux et réactif.</p><h3>Au quotidien – Utilisation réelle</h3><p>J’ai testé la montre en jogging et natation, et les capteurs (GPS, fréquence cardiaque) sont précis. L’autonomie est d’environ 6 jours.</p><h3>Points forts ressentis au fil du temps</h3><p>Interface fluide, affichage lumineux et suivi santé complet.</p><h3>Déceptions ou frustrations</h3><p>Le manque d’applications tierces limite un peu la personnalisation.</p><h3>Bilan personnel</h3><p>Je la recommande aux sportifs et amateurs de design. Oui, je l’achèterais pour son rapport qualité/prix.</p>",
+      "en": "<h3>Introduction & Context</h3><p>The Smartwatch Z caught my attention for its elegant design and complete fitness tracking. I was also expecting good battery life.</p><h3>Day 1 to 3 – First Impressions</h3><p>Light and comfortable on the wrist, it sets up within minutes. The AMOLED screen is bright and responsive.</p><h3>Daily Use</h3><p>I tested the watch during jogging and swimming, and the sensors (GPS, heart rate) are accurate. The battery lasts around 6 days.</p><h3>Strengths Over Time</h3><p>Smooth interface, bright display, and complete health tracking.</p><h3>Disappointments</h3><p>The lack of third-party apps slightly limits customization.</p><h3>Personal Verdict</h3><p>I recommend it for sports enthusiasts and design lovers. Yes, I would buy it for its value for money.</p>"
+    },
+    "verdict": {
+      "fr": "Une montre connectée complète et fiable pour le quotidien.",
+      "en": "A complete and reliable smartwatch for everyday use."
+    }
+  },
+
+
+
+
+
+
+
+  {
+    "id": "mouse-gamer-x",
+    "category": ["gaming", "iot"],
+    "name": {
+      "fr": "Souris Gamer X",
+      "en": "Gamer Mouse X"
+    },
+    "image": "mouse.jpg",
+    "rating": 4.2,
+    "price": "79€",
+    "summary": {
+      "fr": "Souris gaming ultra-précise avec capteur 26 000 DPI.",
+      "en": "Ultra-precise gaming mouse with 26,000 DPI sensor."
+    },
+    "specs": {
+      "fr": {
+        "Capteur": "Optique 26 000 DPI",
+        "Boutons": "8 programmables",
+        "Éclairage": "RGB",
+        "Connectivité": "USB-C & Sans-fil 2,4 GHz",
+        "Autonomie": "70h"
+      },
+      "en": {
+        "Sensor": "Optical 26,000 DPI",
+        "Buttons": "8 programmable",
+        "Lighting": "RGB",
+        "Connectivity": "USB-C & 2.4 GHz wireless",
+        "Battery life": "70h"
+      }
+    },
+    "criteriaRatings": {
+      "fr": {
+        "Performance": 5,
+        "Écran": 4.5,
+        "Audio": 4,
+        "Autonomie": 4.5,
+        "Design": 5
+      },
+      "en": {
+        "Performance": 5,
+        "Display": 4.5,
+        "Audio": 4,
+        "Battery Life": 4.5,
+        "Design": 5
+      }
+    },
+    "tests": {
+      "fr": [
+        "Précision parfaite pour FPS",
+        "Ergonomie idéale pour longues sessions",
+        "Logiciel de personnalisation complet"
+      ],
+      "en": [
+        "Perfect accuracy for FPS",
+        "Ideal ergonomics for long sessions",
+        "Comprehensive customization software"
+      ]
+    },
+    "pros": {
+      "fr": [
+        "Capteur très précis",
+        "Autonomie élevée",
+        "Légère et robuste"
+      ],
+      "en": [
+        "Very precise sensor",
+        "High battery life",
+        "Lightweight and durable"
+      ]
+    },
+    "cons": {
+      "fr": [
+        "Prix légèrement élevé"
+      ],
+      "en": [
+        "Slightly expensive"
+      ]
+    },
+    "durability": {
+      "fr": {
+        "Résistance aux rayures": "Bonne, revêtement anti-traces",
+        "Certification IP": "Non certifiée",
+        "Impact environnemental": "Plastiques recyclables"
+      },
+      "en": {
+        "Scratch resistance": "Good, anti-smudge coating",
+        "IP certification": "Not certified",
+        "Environmental impact": "Recyclable plastics"
+      }
+    },
+    "accessories": {
+      "fr": {
+        "Dongle sans-fil": "Inclus (2,4 GHz)",
+        "Câble USB-C": "Câble tressé inclus",
+        "Patins de rechange": "Non inclus"
+      },
+      "en": {
+        "Wireless dongle": "Included (2.4 GHz)",
+        "USB-C cable": "Braided cable included",
+        "Spare skates": "Not included"
+      }
+    },
+    "valueForMoney": {
+      "fr": "Bon rapport qualité/prix pour les gamers FPS exigeants.",
+      "en": "Good value for money for demanding FPS gamers."
+    },
+    "warranty": {
+      "fr": {
+        "Garantie": "2 ans constructeur",
+        "Réparabilité": "Boutons et patins remplaçables"
+      },
+      "en": {
+        "Warranty": "2-year manufacturer warranty",
+        "Repairability": "Buttons and skates replaceable"
+      }
+    },
+    "targetUsers": {
+      "fr": [
+        "Gamers FPS compétitifs",
+        "Joueurs e-sport",
+        "Utilisateurs cherchant une souris légère et précise"
+      ],
+      "en": [
+        "Competitive FPS gamers",
+        "E-sports players",
+        "Users looking for a lightweight, precise mouse"
+      ]
+    },
+    "competitors": [
+      "Logitech G Pro X Superlight",
+      "Razer DeathAdder V3"
+    ],
+    "finalRating": "4.2/5",
+    "affiliateLink": "https://www.amazon.fr/dp/example-mouse",
+    "gallery": [
+      "mouse.jpg",
+      "view.jpeg"
+    ],
+    "experience": {
+      "fr": "<h3>Introduction & Contexte</h3><p>Je cherchais une souris légère et précise pour mes parties de FPS. La Souris Gamer X promettait un capteur 26 000 DPI et une autonomie élevée.</p><h3>Jour 1 à 3 – Premières impressions</h3><p>Son ergonomie est excellente et son poids plume la rend ultra maniable.</p><h3>Au quotidien – Utilisation réelle</h3><p>Testée sur plusieurs jeux, la précision est parfaite et aucun lag n’a été constaté, même en mode sans-fil. L’autonomie de 70 h est réelle.</p><h3>Points forts ressentis au fil du temps</h3><p>Capteur ultra précis et design confortable même après 4 heures de jeu.</p><h3>Déceptions ou frustrations</h3><p>Le prix est un peu élevé comparé à certaines concurrentes.</p><h3>Bilan personnel</h3><p>Je la recommande aux gamers compétitifs. Oui, je l’achèterais.</p>",
+      "en": "<h3>Introduction & Context</h3><p>I was looking for a lightweight and precise mouse for FPS gaming. The Gamer Mouse X promised a 26,000 DPI sensor and long battery life.</p><h3>Day 1 to 3 – First Impressions</h3><p>Its ergonomics are excellent and its light weight makes it extremely easy to handle.</p><h3>Daily Use</h3><p>Tested on several games, its accuracy is flawless and no lag was noticed, even in wireless mode. The 70h battery life is real.</p><h3>Strengths Over Time</h3><p>Ultra-precise sensor and comfortable design even after 4 hours of gaming.</p><h3>Disappointments</h3><p>The price is slightly high compared to some competitors.</p><h3>Personal Verdict</h3><p>I recommend it to competitive gamers. Yes, I would buy it.</p>"
+    },
+    "verdict": {
+      "fr": "Un must-have pour les joueurs compétitifs.",
+      "en": "A must-have for competitive gamers."
+    }
+  },
+
+
+
+
+
+
+
+  {
+    "id": "speaker-bluetooth",
+    "category": "audio-video",
+    "name": {
+      "fr": "Enceinte Bluetooth Boom",
+      "en": "Bluetooth Boom Speaker"
+    },
+    "image": "speaker.jpg",
+    "rating": 4.3,
+    "price": "129€",
+    "summary": {
+      "fr": "Enceinte portable puissante avec basses profondes et autonomie de 24h.",
+      "en": "Powerful portable speaker with deep bass and 24-hour battery life."
+    },
+    "specs": {
+      "fr": {
+        "Puissance": "40W",
+        "Autonomie": "24h",
+        "Étanchéité": "IPX7",
+        "Connectivité": "Bluetooth 5.1, Jack 3.5mm",
+        "Poids": "1,2 kg"
+      },
+      "en": {
+        "Power": "40W",
+        "Battery life": "24h",
+        "Waterproof": "IPX7",
+        "Connectivity": "Bluetooth 5.1, 3.5mm Jack",
+        "Weight": "1.2 kg"
+      }
+    },
+    "criteriaRatings": {
+      "fr": {
+        "Performance": 5,
+        "Écran": 4.5,
+        "Audio": 4,
+        "Autonomie": 4.5,
+        "Design": 5
+      },
+      "en": {
+        "Performance": 5,
+        "Display": 4.5,
+        "Audio": 4,
+        "Battery Life": 4.5,
+        "Design": 5
+      }
+    },
+    "tests": {
+      "fr": [
+        "Son puissant et clair même au volume max",
+        "Autonomie réelle : 22 heures",
+        "Résiste à l’eau (testé sous la pluie)",
+        "Bonne portée Bluetooth (10m)"
+      ],
+      "en": [
+        "Powerful and clear sound even at max volume",
+        "Real battery life: 22 hours",
+        "Water-resistant (tested in rain)",
+        "Good Bluetooth range (10m)"
+      ]
+    },
+    "pros": {
+      "fr": [
+        "Son puissant",
+        "Bonne autonomie",
+        "Étanchéité IPX7"
+      ],
+      "en": [
+        "Powerful sound",
+        "Good battery life",
+        "IPX7 waterproof"
+      ]
+    },
+    "cons": {
+      "fr": [
+        "Légèrement lourde"
+      ],
+      "en": [
+        "Slightly heavy"
+      ]
+    },
+    "durability": {
+      "fr": {
+        "Résistance à l'eau": "IPX7 – immersion possible",
+        "Matériaux": "Plastique robuste et grille métallique",
+        "Chocs": "Résiste aux petites chutes"
+      },
+      "en": {
+        "Water resistance": "IPX7 – immersion possible",
+        "Materials": "Durable plastic and metal grille",
+        "Shocks": "Resists minor drops"
+      }
+    },
+    "accessories": {
+      "fr": {
+        "Câble de charge": "USB-C inclus",
+        "Dragonne": "Incluse",
+        "Sac de transport": "Non inclus"
+      },
+      "en": {
+        "Charging cable": "USB-C included",
+        "Wrist strap": "Included",
+        "Carrying bag": "Not included"
+      }
+    },
+    "valueForMoney": {
+      "fr": "Bon rapport qualité/prix avec une puissance audio notable pour ce prix.",
+      "en": "Good value for money with impressive audio power for this price."
+    },
+    "warranty": {
+      "fr": {
+        "Garantie": "2 ans constructeur",
+        "Réparabilité": "Batterie remplaçable par le service client"
+      },
+      "en": {
+        "Warranty": "2-year manufacturer warranty",
+        "Repairability": "Battery replaceable via customer service"
+      }
+    },
+    "targetUsers": {
+      "fr": [
+        "Amateurs de musique en extérieur",
+        "Organisateurs de soirées",
+        "Utilisateurs recherchant une enceinte portable étanche"
+      ],
+      "en": [
+        "Outdoor music lovers",
+        "Party organizers",
+        "Users looking for a waterproof portable speaker"
+      ]
+    },
+    "competitors": [
+      "JBL Charge 5",
+      "Ultimate Ears Boom 3"
+    ],
+    "finalRating": "4.3/5",
+    "affiliateLink": "https://www.amazon.fr/dp/example-speaker",
+    "gallery": [
+      "speaker.jpg",
+      "view.jpeg"
+    ],
+    "experience": {
+      "fr": "<h3>Introduction & Contexte</h3><p>Cette enceinte m’a attiré par sa promesse d’un son puissant et d’une autonomie de 24 h. Je voulais un modèle parfait pour les soirées en extérieur.</p><h3>Jour 1 à 3 – Premières impressions</h3><p>À l’ouverture, la qualité de fabrication est rassurante. Premier test de son : les basses sont profondes et le volume impressionnant.</p><h3>Au quotidien – Utilisation réelle</h3><p>Je l’ai utilisée sous une petite pluie, et l’IPX7 a tenu ses promesses. L’autonomie réelle est autour de 22 heures.</p><h3>Points forts ressentis au fil du temps</h3><p>Son puissant et clair même à haut volume.</p><h3>Déceptions ou frustrations</h3><p>Elle est un peu lourde à transporter dans un sac.</p><h3>Bilan personnel</h3><p>Parfaite pour les fêtes et barbecues. Oui, je l’achèterais.</p>",
+      "en": "<h3>Introduction & Context</h3><p>This speaker caught my attention with its promise of powerful sound and 24-hour battery life. I wanted a model perfect for outdoor parties.</p><h3>Day 1 to 3 – First Impressions</h3><p>Out of the box, the build quality is reassuring. First sound test: deep bass and impressive volume.</p><h3>Daily Use</h3><p>I used it under light rain, and the IPX7 rating held up. Real battery life is around 22 hours.</p><h3>Strengths Over Time</h3><p>Powerful and clear sound even at high volume.</p><h3>Disappointments</h3><p>It is slightly heavy to carry in a bag.</p><h3>Personal Verdict</h3><p>Perfect for parties and barbecues. Yes, I would buy it.</p>"
+    },
+    "verdict": {
+      "fr": "Une enceinte parfaite pour les soirées et les barbecues en extérieur.",
+      "en": "A perfect speaker for outdoor parties and barbecues."
+    }
+  }
+
+]
