@@ -117,7 +117,7 @@ function initProduct() {
                 <div class="cons"><h3>${t('cons_title')}</h3><ul>${listHTML(cons)}</ul></div>
             </section>
             ${experience ? `
-            <section class="experience-section">
+            <section id="experience" class="experience-section">
                 <h2>${t('experience_title')} ${name}</h2>
                 <div class="experience-content" id="experience-content">${experience}</div>
                 <button class="btn-toggle" onclick="toggleExperience()">${t('experience_read_more')}</button>
